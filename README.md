@@ -70,7 +70,7 @@ O sistema gera um relatório contendo:
 1. Clone este repositório:
 
 ```
-git clone https://github.com/seuusuario/sistema-gestao-pecas.git
+https://github.com/luigivieira-bit/sistema-gestao-pecas
 ```
 
 2. Acesse a pasta do projeto:
